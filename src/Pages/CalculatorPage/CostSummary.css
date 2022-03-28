@@ -1,0 +1,13 @@
+.summary {
+  text-align: center;
+}
+
+.result {
+  font-size: xx-large;
+  color: gray;
+  font-weight: 900;
+}
+
+span {
+  font-weight: bold;
+}

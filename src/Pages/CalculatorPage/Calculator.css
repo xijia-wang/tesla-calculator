@@ -1,0 +1,12 @@
+.calculator {
+  text-align: center;
+}
+
+label {
+  display: block;
+  margin-bottom: 8px;
+}
+
+.field-container {
+  margin-bottom: 24px;
+}
